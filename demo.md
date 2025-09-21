@@ -1,8 +1,5 @@
-This is first line - it is branch firstone
+This is first line
 
-Simple markdown file
+This is last line
 
-Hello added some text!
-
-
-Not we have second branch too.!
+Here it is first branch changes
